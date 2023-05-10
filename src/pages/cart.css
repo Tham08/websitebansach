@@ -1,0 +1,10 @@
+.table tr td {
+    
+    object-fit: contain;
+}
+td svg{
+    cursor: pointer;
+}
+td,th {
+    color:#0a3d4e;
+}
